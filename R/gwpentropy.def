@@ -1,0 +1,5 @@
+LIBRARY      "gwpe"
+DESCRIPTION  'R call to C Windows Dynamic Link Library gwpentropy'
+
+EXPORTS
+  gwpe
